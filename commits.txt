@@ -1,1 +1,12 @@
-Aqui vamos a poner los commits de mi repositorio local
+8e21800 Merge branch 'main' of https://github.com/rcolina17/remoto
+8488703 Create commits.txt
+503be6a Initial commit
+23e0062 Bug arreglado
+a9cc297 Modificacion de dos puntos
+2cffaf7 Se arreglo el conflicto
+56c6a8d Modificacion en main a Jesus
+71e57e6 Modificacion de main
+a58256d Modificacion de parametros operations
+706e128 Modificacion operations
+02990e6 Segundo Commit
+ea77008 Primer Commit
